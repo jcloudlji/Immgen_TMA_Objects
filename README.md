@@ -1,4 +1,4 @@
-# Immgen_TMA_Objects
+# Immgen TMA Object Creation
 An overview of the simplistic approach to creating AnnData objects from the Tissue Microarray.
 
 This script firstly walks through a straightforward method of creating an object in the AnnData format given outputs from the Xenium Prime 5K experiment conducted on the Tissue Microarray (TMA). Additionally, there are steps to subset the TMA to produce AnnData objects for any given region of interest on the panel.
